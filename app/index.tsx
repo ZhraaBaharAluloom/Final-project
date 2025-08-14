@@ -9,7 +9,12 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>We are collaborating in the same REPO!!!!</Text>
+      <Text>Hello</Text>
+      <Text>Hello</Text>
+      <Text>Hello</Text>
+      <Text>Hello</Text>
+      <Text>Hello</Text>
+      <View></View>
     </View>
   );
 }
